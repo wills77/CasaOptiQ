@@ -1,0 +1,6 @@
+{
+  "name": "CasaOptiQ",
+  "description": "Boutique en ligne de lunettes de luxe, montures optiques et solaires à Casablanca, Maroc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
